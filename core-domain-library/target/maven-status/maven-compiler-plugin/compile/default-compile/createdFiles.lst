@@ -1,3 +1,4 @@
-framework\RemoteExecutionInterface.class
 framework\SubscriberDetails.class
 framework\DistributedObject.class
+framework\Participant.class
+framework\RemoteExecutionInterface.class
