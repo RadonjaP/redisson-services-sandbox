@@ -1,0 +1,5 @@
+com\rprelevic\ta\payroll\processor\service\Participant.class
+com\rprelevic\ta\payroll\processor\PayrollProcessorServiceApplication.class
+com\rprelevic\ta\payroll\processor\RedisConfiguration.class
+com\rprelevic\ta\payroll\processor\service\PayrollProcessorService.class
+com\rprelevic\ta\payroll\processor\controller\PayrollProcessorController.class

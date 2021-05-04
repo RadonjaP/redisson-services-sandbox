@@ -1,0 +1,3 @@
+com\rprelevic\ta\rml\listener\ParticipantMessageReceiver.class
+com\rprelevic\ta\rml\RedisConfiguration.class
+com\rprelevic\ta\rml\RedisMessagingListenerApplication.class

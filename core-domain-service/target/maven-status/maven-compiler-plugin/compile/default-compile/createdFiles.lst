@@ -1,0 +1,5 @@
+com\rprelevic\ta\cds\service\CoreDomainServiceOrchestrator.class
+com\rprelevic\ta\cds\service\CoreDomainLookupService.class
+com\rprelevic\ta\cds\CoreDomainServiceApplication.class
+com\rprelevic\ta\cds\config\RedisConfiguration.class
+com\rprelevic\ta\cds\service\CoreDomainMessageReceiver.class

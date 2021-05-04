@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59471ac9-6661-414b-83a6-aa83ed5e057c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rZZg3EI4L6xN41l6IYCRSt8TTZ" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/rprelevic/ta/redis/jpaprocessor/repository" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../redis-messaging-listener/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rprelevic.ta.rml.framework" />
+      <recent name="com.rprelevic.ta.redis.jpaprocessor.service" />
+      <recent name="com.rprelevic.ta.rml.impl" />
+      <recent name="com.rprelevic.ta.redis.jpaprocessor.controller.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RedisMessagingListenerApplication">
+    <configuration name="RedisJpaProcessorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rprelevic.ta.redis.jpaprocessor.RedisJpaProcessorApplication" />
+      <module name="redis-jpa-processor-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rprelevic.ta.redis.jpaprocessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisMessagingListenerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rprelevic.ta.rml.RedisMessagingListenerApplication" />
+      <module name="redis-messaging-listener" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rprelevic.ta.rml.impl.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RedisMessagingListenerApplication" />
+        <item itemvalue="Application.RedisJpaProcessorApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59471ac9-6661-414b-83a6-aa83ed5e057c" name="Default Changelist" comment="" />
+      <created>1619185679399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619185679399</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../redis-messaging-listener/src/main/java/com/rprelevic/ta/rml/framework/CacheMessageListener.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((RedisTemplate)((DefaultValueOperations)((RedisTemplate)((DefaultValueOperations)objectA).template).valueOps).template).listOps" custom="org.springframework.data.redis.core.RedisTemplate,org.springframework.data.redis.core.DefaultValueOperations" />
+        <watch expression="name1" />
+        <watch expression="name4" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
